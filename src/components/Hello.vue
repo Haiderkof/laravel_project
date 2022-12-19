@@ -4,8 +4,5 @@
 <script>
 export default{
     name:"app",
-    components: {
-        helloworld
-    }
 }
 </script>
